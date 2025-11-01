@@ -80,12 +80,12 @@ section {
 }
 
 .about{
-  background: #f4f4f4;
+  background: green;
   color: #333;
   height:100vh
 }
 .contact{
-  background: #e2e2e2;
+  background: orange;
   color: #333;
   height:100vh
 }
